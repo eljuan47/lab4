@@ -36,7 +36,7 @@ hr {
   padding: 5px;
 }
 .btn-menu:hover {
-  color: blue;
+  color: #22e6d3;
 }
 .action {
   border: 1px solid;
@@ -44,9 +44,9 @@ hr {
   border: 1px solid;
 }
 .activo {
-  background-color: aquamarine;
+  background-color: rgb(60, 0, 78);
   border: 1px solid;
-  color: black;
+  color: white;
   border-radius: 5px;
 }
 
@@ -67,8 +67,8 @@ hr {
 /*Estilo del pie*/
 
 .pie {
-  background-color: blue;
-  color: darkgray;
+  background-color: #17e68b;
+  color: black;
   border: 1px solid;
   border-radius: 5px;
   text-align: center;
@@ -80,10 +80,10 @@ hr {
   border-radius: 8px;
   padding: 20px;
 }
-.tarjeta h3{
+.tarjeta h3 {
   color: blueviolet;
 }
-.tarjeta a{
+.tarjeta a {
   color: chocolate;
   text-decoration: none;
   margin-top: 10px;
